@@ -1,0 +1,77 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "company": "Acme Corp",
+        "jobTitle": "Sales Manager",
+        "address": "123 Main St, Springfield, IL",
+        "lastContacted": "2024-08-15",
+        "profileImage": "https://example.com/images/john_doe.jpg",
+        "notes": "Interested in new product line. Follow up next month."
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "987-654-3210",
+        "company": "Globex Corporation",
+        "jobTitle": "Marketing Director",
+        "address": "456 Elm St, Metropolis, NY",
+        "lastContacted": "2024-09-01",
+        "profileImage": "https://example.com/images/jane_smith.jpg",
+        "notes": "Discussed potential partnership opportunities."
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "phone": "555-123-4567",
+        "company": "Initech",
+        "jobTitle": "Software Engineer",
+        "address": "789 Oak St, Gotham, NJ",
+        "lastContacted": "2024-07-20",
+        "profileImage": "https://example.com/images/michael_johnson.jpg",
+        "notes": "Interested in automation solutions."
+      },
+      {
+        "id": 4,
+        "name": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "phone": "444-555-6666",
+        "company": "Umbrella Corp",
+        "jobTitle": "Project Manager",
+        "address": "321 Pine St, Raccoon City, CA",
+        "lastContacted": "2024-08-05",
+        "profileImage": "https://example.com/images/emily_davis.jpg",
+        "notes": "Looking for project management tools."
+      },
+      {
+        "id": 5,
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "phone": "777-888-9999",
+        "company": "Wayne Enterprises",
+        "jobTitle": "Chief Financial Officer",
+        "address": "654 Cedar St, Metropolis, NY",
+        "lastContacted": "2024-09-03",
+        "profileImage": "https://example.com/images/david_brown.jpg",
+        "notes": "Interested in financial analytics solutions."
+      },
+      {
+        "id": 6,
+        "name": "David Puttra",
+        "email": "david.brown@example.com",
+        "phone": "777-888-9999",
+        "company": "Wayne Enterprises",
+        "jobTitle": "Chief Financial Officer",
+        "address": "654 Cedar St, Metropolis, NY",
+        "lastContacted": "2024-09-03",
+        "profileImage": "https://example.com/images/david_brown.jpg",
+        "notes": "Interested in financial analytics solutions."
+      }
+    ]
+  }
+  
